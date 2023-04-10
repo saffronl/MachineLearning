@@ -1,3 +1,7 @@
+BOOK - The Elements of Statistical Learning: Data Mining, Inference, and Prediction
+by Trevor Hastie, Robert Tibshirani, Jerome Friedman
+
+
 Precision - from all classes predicted as positive, how many are actually positive
 
 Recall - from all the positive classes, how many were predicted correctly
